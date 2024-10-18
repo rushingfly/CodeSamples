@@ -1,0 +1,2 @@
+packages:
+  - "packages/*"  # 表示所有 packages 文件夹中的包都是工作空间成员
