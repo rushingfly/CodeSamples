@@ -8,7 +8,7 @@ document.getElementById("copy").addEventListener("click", () => {
         sourceDomain,
         targetDomain
       },
-      (response,a2) => {
+      (response) => {
         if (response?.status === "success") {
           alert("Cookies copied successfully!");
         } else {
