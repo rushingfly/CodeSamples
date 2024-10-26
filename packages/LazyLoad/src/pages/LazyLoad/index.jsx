@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Meter from "./Meter";
-import Lazy from "./Lazy";
+import Lazy from "./lazy";
 import "./style.scss";
 
 function LazyLoad() {
