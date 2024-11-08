@@ -1,6 +1,6 @@
 {
   "name": "charles-code-samples",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just some code samples",
   "main": "index.js",
   "scripts": {
