@@ -1,12 +1,12 @@
 {
-  "name": "CodeSamples",
+  "name": "charles-code-samples",
   "version": "1.0.0",
-  "description": "",
+  "description": "just some code samples",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "rushingfly",
+  "license": "MIT"
 }
